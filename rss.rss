@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+			<title>Bienvenidos a mi página</title>
+			<link>https://thedocangel.github.io/paginaprueba/</link>
+			<description>Las últimas noticias de motociclismo</description>
+		<item>
+			<title>Ten paciencia, 'Vale': Harás un 'Tiger'</title>
+			<link>http://www.motogp.com/es/noticias/2019/04/16/ten-paciencia-vale-haras-un-tiger/289731</link>
+			<description>El mismo día, en el mismo país, una estrella del deporte regresó a la senda del triunfo... La otra estuvo increíblemente cerca</description>
+			<image>http://photos.motogp.com/2019/04/16/_dsc7846-copia_0_crop_square_1555407391.square_3x.jpg</image>
+		</item>
+		<item>
+			<title>3 carreras y 3 ganadores distintos: ¡Un Campeonato de locos!</title>
+			<link>http://www.motogp.com/es/noticias/2019/04/14/3-carreras-y-3-ganadores-distintos-un-campeonato-de-locos/289600</link>
+			<description>Dovizioso (Ducati), Márquez (Honda) y Rins (Suzuki) se reparten el premio gordo de unas victorias por las que también pugna Rossi (Yamaha)</description>
+			<image>http://photos.motogp.com/2019/04/14/_lg85472_1_crop_square_1555285477.square_3x.jpg</image>
+		</item>
+		<item>
+			<title>¿Sacrificó Rossi la victoria en beneficio del campeonato?</title>
+			<link>http://www.motogp.com/es/noticias/2019/04/14/sacrifico-rossi-la-victoria-en-beneficio-del-campeonato/289574</link>
+			<description>El duelo con Rins en Austin generó "sentimientos encontrados" en Valentino al pelear por el triunfo con la mente puesta en el campeonato</description>
+			<image>http://photos.motogp.com/2019/04/14/_ds02397_1_crop_square_1555281193.square_3x.jpg</image>
+		</item>
+		<item>
+			<title>El decálogo imperdible sobre el GP Red Bull de Las Américas</title>
+			<link>http://www.motogp.com/es/noticias/2019/04/14/el-decalogo-imperdible-sobre-el-gp-red-bull-de-las-americas/289355</link>
+			<description>Repasa este listado para conocer algunas estadísticas relevantes que esconde la tercera cita del Campeonato del Mundo de MotoGP™</description>
+			<image>http://photos.motogp.com/2019/04/14/10t-es_0_crop_square_1555202326.square_3x.jpg</image>
+		</item>
+		<item>
+			<title>Miller y Dovizioso, cara y cruz de Ducati para la salida</title>
+			<link>http://www.motogp.com/es/noticias/2019/04/13/miller-y-dovizioso-cara-y-cruz-de-ducati-para-la-salida/289290</link>
+			<description>El australiano de Pramac Racing saldrá 4º como mejor Ducati mientras que el italiano partirá desde el puesto 13 tras quedarse fuera de la Q2</description>
+			<image>http://photos.motogp.com/2019/04/13/43-jack-miller-auslg5_5243_0_crop_square_1555196716.square_3x.jpg</image>
+		</item>
+	</channel>
+</rss>
